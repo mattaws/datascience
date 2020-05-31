@@ -6,3 +6,7 @@ uciCar <- read.table(
   header = TRUE,
   stringsAsFactors = TRUE
 )
+
+View(uciCar)
+
+#Test Git
